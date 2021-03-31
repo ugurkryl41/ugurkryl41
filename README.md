@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ugurkarayel41@gmail.com
 - ⚡ Fun fact: ... **--**
-- [![ ✨ Linkedln Adress ✨ ]](https://www.linkedin.com/in/u%C4%9Fur-muhammed-k-11857261/) 
+- [ ✨ Linkedln Adress ✨ ](https://www.linkedin.com/in/u%C4%9Fur-muhammed-k-11857261/) 
 
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ugurkryl41) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ugurmuhammedkarayel/?hl=tr) 
