@@ -8,6 +8,9 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ugurkarayel41@gmail.com
 - ⚡ Fun fact: ... **--**
-- [ ✨ Linkedln Adress ✨ ](https://www.linkedin.com/in/ugurkarayel/) 
+- [ ✨ Linkedln Adress ✨ ](https://www.linkedin.com/in/ugurkarayel/)
+
+
+  
 -![Github stats 2](https://github-readme-stats.vercel.app/api?username=ugurkryl41&show_icons=true&theme=radical)
 
